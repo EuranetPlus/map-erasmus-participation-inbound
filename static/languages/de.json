@@ -1,12 +1,13 @@
 {
-  "title": "Wie viele EU-Bürger nehmen am ERASMUS-Programm teil?",
-  "subtitle": "Im Jahr 2024 reisten rund 1,3 Millionen Studierende und Mitarbeiter aus EU-Ländern im Rahmen des Erasmus-Programms in ein anderes EU-Land.",
+  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
+  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
   "textNoteDescription": "Notiz",
-  "textNote": "Die Zahlen geben die Anzahl der ausländischen Lernenden bzw. Mitarbeiter an, die am ERASMUS-Programm teilgenommen haben.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Quelle",
-  "textSource": "Erasmus (2026)",
-  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
+  "textSource": "Abonnieren",
+  "linkDataAccessDescription": "Zugriff auf die Daten",
+  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
+  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
   "legend1": "Keine Daten verfügbar",
-  "customUnitLabel": "tausend",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }

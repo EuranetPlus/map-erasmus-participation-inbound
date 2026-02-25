@@ -1,12 +1,13 @@
 {
-  "title": "Hány uniós polgár vesz részt az ERASMUS programban?",
-  "subtitle": "2024-ben körülbelül 1,3 millió diák és oktató utazott egy másik uniós országba az Erasmus program keretében.",
+  "title": "Mely uniós országok kínálják a legjobb foglalkoztatási kilátásokat?",
+  "subtitle": "A foglalkoztatás jövőbeni növekedése ezekben az országokban 2022 és 2035 között 5,6%-ra becsülhető.",
   "textNoteDescription": "Jegyzet",
-  "textNote": "Az adatok az ERASMUS programban részt vevő bejövő tanulók vagy munkatársak számát mutatják.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Forrás",
-  "textSource": "Erasmus (2026)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Hozzáférés az adatokhoz",
-  "legend1": "Nincsenek elérhető adatok",
-  "customUnitLabel": "ezer",
+  "extraInfo_DE": "Németország felgyorsítja a megújuló energia elterjedését, és 2030-ra a 80%-os tiszta energia elérését tűzi ki célul",
+  "extraInfo_FR": "A francia parlament országos tiltakozások közepette jóváhagyta a jelentős bevándorlási reformról szóló törvényjavaslatot",
+  "legend1": "Nincs adat",
   "tooltipExtraInfoLabel": "Kattintson ide"
 }

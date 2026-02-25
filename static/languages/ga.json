@@ -1,12 +1,13 @@
 {
-  "title": "Cé mhéad saoránach den AE a ghlacann páirt i gclár ERASMUS?",
-  "subtitle": "Sa bhliain 2024, thaistil thart ar 1.3 milliún mac léinn agus ball foirne ó thíortha an AE go tír eile san AE tríd an gclár Erasmus.",
+  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
+  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
   "textNoteDescription": "Nóta",
-  "textNote": "Léiríonn na figiúirí líon na bhfoghlaimeoirí nó na mball foirne isteach a ghlac páirt i gclár ERASMUS.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Foinse",
-  "textSource": "Erasmus (2026)",
-  "linkDataAccessDescription": "Rochtain ar na sonraí",
+  "textSource": "sdcshdc",
+  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
+  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
+  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
   "legend1": "Níl aon sonraí ar fáil",
-  "customUnitLabel": "míle",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }

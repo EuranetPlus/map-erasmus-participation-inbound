@@ -1,12 +1,13 @@
 {
-  "title": "Quanti cittadini dell'UE partecipano al programma ERASMUS?",
-  "subtitle": "Nel 2024, circa 1,3 milioni di studenti e personale proveniente da paesi dell'UE si sono recati in un altro paese dell'UE attraverso il programma Erasmus.",
+  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
+  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
   "textNoteDescription": "Nota",
-  "textNote": "Le cifre mostrano il numero di studenti o personale in entrata che ha partecipato al programma ERASMUS.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Fonte",
-  "textSource": "Erasmo (2026)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Accedi ai dati",
+  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
+  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
-  "customUnitLabel": "mille",
   "tooltipExtraInfoLabel": "clicca qui"
 }

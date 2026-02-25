@@ -1,12 +1,13 @@
 {
-  "title": "Hvor mange EU-borgere deltager i ERASMUS-programmet?",
-  "subtitle": "I 2024 rejste omkring 1,3 millioner studerende og ansatte fra EU-lande til et andet EU-land gennem Erasmus-programmet.",
+  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
+  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
   "textNoteDescription": "Note",
-  "textNote": "Tallene viser antallet af indkommende elever eller medarbejdere, der deltog i ERASMUS-programmet.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Kilde",
-  "textSource": "Erasmus (2026)",
-  "linkDataAccessDescription": "Få adgang til dataene",
-  "legend1": "Ingen data tilgængelige",
-  "customUnitLabel": "tusind",
+  "textSource": "sdcshdc",
+  "linkDataAccessDescription": "Få adgang til data",
+  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
+  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
+  "legend1": "Ingen tilgængelige data",
   "tooltipExtraInfoLabel": "Klik her"
 }

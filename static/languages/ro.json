@@ -1,12 +1,13 @@
 {
-  "title": "Câți cetățeni ai UE participă la programul ERASMUS?",
-  "subtitle": "În 2024, aproximativ 1,3 milioane de studenți și membri ai personalului didactic din țările UE au călătorit într-o altă țară a UE prin intermediul programului Erasmus.",
+  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
+  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
   "textNoteDescription": "Nota",
-  "textNote": "Cifrele arată numărul de cursanți sau personal care intră în sistemul de învățământ superior și care au participat la programul ERASMUS.",
+  "textNote": "sdchdc",
   "textSourceDescription": "Sursă",
-  "textSource": "Erasmus (2026)",
+  "textSource": "sdcshdc",
   "linkDataAccessDescription": "Accesați datele",
-  "legend1": "Nu sunt disponibile date",
-  "customUnitLabel": "mie",
+  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
+  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
+  "legend1": "Nu există date disponibile",
   "tooltipExtraInfoLabel": "Click aici"
 }
